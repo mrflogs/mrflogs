@@ -4,7 +4,11 @@
 ![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{mrflogs})
 
 ![]( https://visitor-badge.glitch.me/badge?page_id=<mrflogs>)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mrflogs&left_color=green&right_color=red)
 -->
+
+ <img align="right" src="https://komarev.com/ghpvc/?username=mrflogs&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 
 ### Hi there 👋
 👯 Hi, I am Zhengbo Wang, a Ph.D. student from the University of Science of Technology of China.
@@ -15,11 +19,14 @@
 
 📫 Feel free to drop me an email (zhengbowang@mail.ustc.edu.cn) if you are interested.
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrflogs&show_icons=true" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
-
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrflogs&left_color=green&right_color=red)
-
-
+<p align="left">
+  <a href="https://github.com/mrflogs" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=mrflogs" alt="Zhengbo's Stats" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=mrflogs&hide=issues" alt="Zhengbo's Stats" >
+    -->
+  </a>
+</p>
 
 <!--
 **mrflogs/mrflogs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
