@@ -11,7 +11,7 @@
  <img align="right" src="https://komarev.com/ghpvc/?username=mrflogs&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 
 ### Hi there 👋
-👯 Hi, I am Zhengbo Wang, a Ph.D. student from the University of Science of Technology of China.
+👯 Hi, I am Zhengbo Wang, a Ph.D. student from the University of Science and Technology of China.
 
 ✊ I am supervised by [Jian Liang](https://liangjian.xyz/).
 
